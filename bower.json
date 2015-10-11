@@ -1,0 +1,30 @@
+{
+  "name": "MEAN-TODO",
+  "version": "0.0.0",
+  "authors": [
+    "Robson.Alves <robson.infoo@gmail.com>"
+  ],
+  "description": "Gerenciar as depedências visuais do projeto",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "TODOItens"
+  ],
+  "license": "MIT",
+  "homepage": "robsonalves.net/portal",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "~3.3.4",
+    "fontawesome": "~4.2.0",
+    "jquery": "~2.1.4",
+    "angular": "angularjs#~1.4.7"
+  }
+}
